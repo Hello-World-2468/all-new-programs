@@ -27,7 +27,6 @@ int Binary_to_Decimal(long int);
 int main()
 {
     long int n;
-    system("cls");
     printf("Enter the binary number for coverting it to decimal: ");
 //	scanf("%d",&n);
     cin >> n;
